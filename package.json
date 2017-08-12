@@ -1,0 +1,27 @@
+{
+  "name": "javascript-chess",
+  "version": "1.0.0",
+  "description": "AI Chess playing algorithm in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianFlo/javascript-chess-ai.git"
+  },
+  "keywords": [
+    "chess",
+    "ai"
+  ],
+  "author": "Sebastian Florian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianFlo/javascript-chess-ai/issues"
+  },
+  "homepage": "https://github.com/SebastianFlo/javascript-chess-ai#readme",
+  "dependencies": {
+    "chess.js": "^0.10.2",
+    "jquery": "^3.2.1"
+  }
+}
